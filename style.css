@@ -5,22 +5,20 @@ body, html, h1 {
 }
 
 body {
-    font-family: 'Lato', sans-serif; /* set font*/
+    font-family: 'Lato', sans-serif;
 }
 
 header {
     background-color: #1b2d2a;
     color: white;
-    padding: 20px; /* align center*/
-    text-align: center; /* align center*/
+    padding: 20px;
+    text-align: center;
 }
 
 p {
-    font-size: 22px; /* font size*/
+    font-size: 22px;
 }
 
 canvas {
-    width: 500px;
-    height: 500px;
     border: 1px solid black;
 }

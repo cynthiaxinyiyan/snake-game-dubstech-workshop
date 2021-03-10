@@ -1,2 +1,2 @@
-# snake-game-dubstech-workshop
-snake game from dubstech workshop for certificate
+# snake-game
+A web app for classic 8-bit snake game
